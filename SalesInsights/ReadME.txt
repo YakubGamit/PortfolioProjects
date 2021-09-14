@@ -1,0 +1,1 @@
+The project covers how the sales are going on with time (PowerBI dashboard), as the sales trends are going down year by year the manager wants to know why the sales are going down and what can be the solution for the problem.
